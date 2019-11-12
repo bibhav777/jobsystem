@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bibhav777/jobsystem/issues"
   },
-  "homepage": "https://github.com/bibhav777/jobsystem#readme"
+  "homepage": "https://github.com/bibhav777/jobsystem#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
